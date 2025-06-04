@@ -50,6 +50,7 @@ Desenvolver um sistema capaz de monitorar e controlar o nível de pressão de um
 4. Grave o arquivo `.uf2` na placa Pico W.
 
 ## Vídeo de Demonstração
+https://youtube.com/playlist?list=PLaN_cHSVjBi_pMptbTHZ1nU-_iovmsFe3&si=jggJZZ1Yr7b4vuuf
 
 ## Licença
 
